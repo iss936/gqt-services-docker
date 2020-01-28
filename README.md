@@ -2,4 +2,4 @@
 
 run this command:
 
-docker-compose up -d
+docker network create proxy && docker-compose up -d
